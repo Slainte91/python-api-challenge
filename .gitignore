@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-api_keys.py
+
 # C extensions
 *.so
-
+api_keys.py
 # Distribution / packaging
 .Python
 build/
